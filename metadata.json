@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 4you Holding AI Hub",
+  "description": "A premium corporate AI assistant for the Holding Company, featuring document-based answering (RAG), text-to-speech, and speech-to-text capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
